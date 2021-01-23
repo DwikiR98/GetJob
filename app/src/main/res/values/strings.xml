@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Get Job</string>
+
+    <string name="Name">Nama</string>
+    <string name="Talent">Keahlian</string>
+    <string name="Description">Deskripsi</string>
+
+    <string-array name="Data_Name">
+        <item>Jhon</item>
+        <item>Brad</item>
+        <item>Tom</item>
+        <item>Sydney</item>
+        <item>Carla</item>
+        <item>Sam</item>
+        <item>Jess</item>
+    </string-array>
+    <string-array name="Data_Talent">
+        <item>Android Developer</item>
+        <item>Data Scientist</item>
+        <item>Web Developer</item>
+        <item>IT Analyst</item>
+        <item>Security Analyst</item>
+        <item>Technopreneur</item>
+        <item>Android Developer</item>
+    </string-array>
+
+    <string-array name="Data_Description">
+        <item>random self-description</item>
+        <item>random self-description</item>
+        <item>random self-description</item>
+        <item>random self-description</item>
+        <item>random self-description</item>
+        <item>random self-description</item>
+        <item>random self-description</item>
+    </string-array>
+
+    <string-array name="Photo">
+        <item>https://img.freepik.com/free-photo/mand-holding-cup_1258-340.jpg?size=626&amp;ext=jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg</item>
+        <item>https://st4.depositphotos.com/12982378/22072/i/600/depositphotos_220729084-stock-photo-smiling-adult-man-crossed-arms.jpg</item>
+        <item>https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?size=626&amp;ext=jpg</item>
+        <item>https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI</item>
+        <item>https://s3.amazonaws.com/arc-authors/washpost/e8d90017-3451-40a4-a668-901221acbb76.png</item>
+        <item>https://qodebrisbane.com/wp-content/uploads/2019/07/This-is-not-a-person-2-1.jpeg</item>
+    </string-array>
+</resources>
